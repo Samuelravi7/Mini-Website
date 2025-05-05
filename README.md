@@ -5,4 +5,7 @@ Filezilla Client needs to be installed and connected beforehand before running t
 User ID : S201
 Password : sam123
 
+Link to website : http://localhost/mypt3/login.php
+
 The database table will be uploaded in the future after further enhancements of the website
+![image](https://github.com/user-attachments/assets/9ce05810-0640-40a6-90b6-e4dfe7f06ff7)
