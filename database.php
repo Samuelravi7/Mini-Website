@@ -1,10 +1,10 @@
 <?php
 session_start();
 
-$servername = "lrgs.ftsm.ukm.my";
-$username = "a194594";
-$password = "littlepinkdog";
-$dbname = "a194594";
+$servername = "fill in the using your information";
+$username = "fill in the using your information";
+$password = "fill in the using your information";
+$dbname = "fill in the using your information";
 
 $db = null;
 try {
